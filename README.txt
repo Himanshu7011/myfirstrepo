@@ -3,4 +3,4 @@
 
 // This is GIT demo going on !!!
 
-Hims gupta
+// Hgupta is learning git
